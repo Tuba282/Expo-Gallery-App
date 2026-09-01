@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229852747774",
+    "project_id": "expo-gallery-app",
+    "storage_bucket": "expo-gallery-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229852747774:android:841a3047a6b3595ff012af",
+        "android_client_info": {
+          "package_name": "com.tubajan.galleryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsn6-n3I1_nDycotzQ8V9Fqo2GZQOOXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
