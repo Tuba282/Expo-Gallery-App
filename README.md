@@ -1,6 +1,6 @@
 # 📸 Expo Gallery App
 
-A modern mobile photography and gallery application built with **Expo (SDK 54)**, **React Native**, **Firebase**, and **Cloudinary**.
+A modern mobile photography and gallery application built with **Expo (SDK 54)**,**JavaScript**,, **React Native**, **Firebase**, and **Cloudinary**.
 
 ---
 
@@ -36,6 +36,8 @@ A modern mobile photography and gallery application built with **Expo (SDK 54)**
       <p align="left"><strong>Description:</strong> App ki main home feed jahan users ki upload ki gayi photos real-time 2-column grid mein show hoti hain jinhe browse, like aur view kiya ja sakta hai.</p>
     </td>
   </tr>
+
+  
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>5. 📤 Upload Photo Screen</h3>
